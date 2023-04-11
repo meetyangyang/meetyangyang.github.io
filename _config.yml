@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Yang"
+title                    : "Yang Yang's homepage"
 title_separator          : "-"
 name                     : &name "Yang Yang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang's homepage"
+  name             : "Yang Yang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "China"
