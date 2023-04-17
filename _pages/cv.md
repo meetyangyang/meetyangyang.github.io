@@ -11,38 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, Northeastern University, China, 2013
+* M.S. in Applied Statistics, Northeastern University, 2015
+* Ph.D in Control Science and Engineering, Northeastern University, 2023 (expected)
+
+Research interest
+======
+* Supply chain optimization
+* Data-driven Predictive control & optimization
+* Convex optimization
+* Deep learning
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1/2019-2/2020: Visiting scholar
+  * Carnegie Mellon University University
+  * Duties included: recommendation system, NLP
+  * Supervisor: Professor Nick Sahinidis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 6/2015-12/2018: Data Researcher
+  * Baosteel Company
+  * Duties included: Prediction, Control and Optimization for integrated steelmaking
+  * Supervisor: Derun Wu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative Modelling, Optimization, and Programming
+  * Matlab, Python, R
+  * GAMS, Julia 
+* Solvers & Environments
+  * CPLEX, Gurobi, MOSEK
+  * Yalmip, Pyomo, CVX, CVXPY
+* Software Development
+  * C++, C#, SQL, Linux, Git
+* Uncertainty Quantification
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+1）	Yang, Y., Lang, J., Wu, J., Zhang, Y., Su, L., Song, X. (2022). Wind speed forecasting with correlation network pruning and augmentation: A two-phase deep learning method. Renewable Energy, 198, 267-282.
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
