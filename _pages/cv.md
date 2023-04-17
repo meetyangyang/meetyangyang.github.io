@@ -46,14 +46,13 @@ Skills
   * C++, C#, SQL, Linux, Git
 * Uncertainty Quantification
 
-Publications
+<!-- Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-1）	Yang, Y., Lang, J., Wu, J., Zhang, Y., Su, L., Song, X. (2022). Wind speed forecasting with correlation network pruning and augmentation: A two-phase deep learning method. Renewable Energy, 198, 267-282.
 
-<!-- Talks
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
