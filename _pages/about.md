@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in **Control Science and Engineering** at [Northeastern University（China）](http://english.neu.edu.cn/). My research is focused on the interdisciplinary fields of Process Systems Engineering, Robotics, and Artificial Intelligence, with a keen interest in using **data science**, **machine learning**, and **optimization** techniques to push forward scientific research. My primary goal is to develop secure and explainable data analytics models and convex optimization techniques to improve the energy, efficiency, and product quality in large-scale process industries and their supply chains.
+I am a PhD candidate in **Control Science and Engineering** in the DAO Lab at [Northeastern University（China）](http://english.neu.edu.cn/). My research is focused on the interdisciplinary fields of Process Systems Engineering（PSE）, Robotics, and AI, with a keen interest in using **data science**, **machine learning**, and **optimization** techniques to push forward scientific research. 
+My primary goal is to develop **secure** and **explainable** data analytics models and convex optimization techniques to optimize energy, efficiency, and product quality of the large-scale complex process industries and their supply chains.
