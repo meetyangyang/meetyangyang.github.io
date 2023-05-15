@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a control science and engineering PhD Student at [Northeastern University](http://english.neu.edu.cn/) specializing in process system engineering with a keen interest in using **data science**, **machine learning**, **optimization** to complement **scientific endeavours**. My research is focused on applying explainable data-driven modeling and optimization techniques to improve the energy process industry.
-
+I am a PhD candidate in **Control Science and Engineering** at Northeastern University (China, Shenyang). My research is focused on the interdisciplinary fields of Process Systems Engineering, Robotics, and Artificial Intelligence, with a keen interest in using **data science**, **machine learning**, and **optimization** techniques to push forward scientific research. My primary goal is to develop secure and explainable data analytics models and convex optimization techniques to improve the energy, efficiency, and product quality in large-scale process industries and their supply chains.

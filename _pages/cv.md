@@ -29,7 +29,7 @@ Work experience
   * Duties included: recommendation system, NLP
   * Supervisor: Professor Nick Sahinidis
 
-* 6/2015-12/2018: Data Researcher
+* 6/2015-12/2018: Data Research Assistant
   * Baosteel Company
   * Duties included: Prediction, Control and Optimization for integrated steelmaking
   * Supervisor: Derun Wu
