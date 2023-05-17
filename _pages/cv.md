@@ -46,6 +46,10 @@ Skills
   * C++, C#, SQL, Linux, Git
 * Uncertainty Quantification
 
+Mentoring Experience
+======
+<a href="https://github.com/LeslieZhoa"> Leslie Zhao</a> (Technology Company Researcher), Che Gelegen (pursuing PhD), and Yang Lu (Government Researcher).
+
 More Info
 ======
 [Download CV here](https://meetyangyang.github.io/files/cv_eng.pdf)
