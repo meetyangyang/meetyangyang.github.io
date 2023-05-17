@@ -12,3 +12,4 @@ I am a PhD candidate in **Control Science and Engineering** (Top 3 in China) in 
 My primary duty is to develop **secure** and **explainable** data analytics models and convex optimization techniques to optimize energy, efficiency, and product quality of the large-scale complex process industries and their supply chains. **Seeking Postdoc/PhD Position**.
 ## A Trustworthy Framework for Data-driven Predictive Control & Machine Learning
 ![avatar](/images/dynamic-predictive-control-framework.jpg)
+## Visualizing and Interpreting the Degradation of Optimal Solutions in Machine Learning: a State-of-the-art Approach (Coming Soon & Seeking Reviewers)
