@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Northeastern University, China, 2013
+* Ph.D in Control Science and Engineering, Northeastern University, 2023.07
 * M.S. in Applied Statistics, Northeastern University, 2015
-* Ph.D in Control Science and Engineering, Northeastern University, 2023 (expected)
+* B.S. in Applied Mathematics, Northeastern University, China, 2013
 
 Research interest
 ======
