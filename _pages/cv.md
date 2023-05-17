@@ -48,7 +48,9 @@ Skills
 
 Mentoring Experience
 ======
-<a href="https://github.com/LeslieZhoa"> Leslie Zhao</a> (Technology Company Researcher), Che Gelegen (pursuing PhD), and Yang Lu (Government Researcher).
+* <a href="https://github.com/LeslieZhoa"> Leslie Zhao</a>, NEU, Master (graduated),AI Researcher in TAL Education 
+* Che Gelegen, NEU, Master (graduated), pursuing PhD in NEU
+* Yang Lu, NEU, Master (graduated), Government Researcher
 
 More Info
 ======
