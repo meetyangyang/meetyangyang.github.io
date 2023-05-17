@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 ## Preventing Catastrophic AI Events: My Duty
-I am a PhD candidate in **Control Science and Engineering** in the DAO Lab at [Northeastern University（China）](http://english.neu.edu.cn/). My research is focused on the interdisciplinary fields of Process Systems Engineering（PSE）, Robotics, and AI, with a keen interest in using **data science**, **machine learning**, and **optimization** techniques to push forward scientific research. 
-My primary goal is to develop **secure** and **explainable** data analytics models and convex optimization techniques to optimize energy, efficiency, and product quality of the large-scale complex process industries and their supply chains.
+I am a PhD candidate in **Control Science and Engineering** in the DAO Lab at [Northeastern University（China）](http://english.neu.edu.cn/). My research is focused on the interdisciplinary fields of Process Systems Engineering, Statistics, and Robotics, with a keen interest in using **data science**, **machine learning**, and **convex optimization** techniques to push forward scientific research. 
+My primary duty is to develop **secure** and **explainable** data analytics models and convex optimization techniques to optimize energy, efficiency, and product quality of the large-scale complex process industries and their supply chains.
 
 ## A Safe and Efficient Framework for Data-driven Predictive Control Models
 ![avatar](/images/dynamic-predictive-control-framework.jpg)
