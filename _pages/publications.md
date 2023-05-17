@@ -10,11 +10,11 @@ author_profile: true
  <a href="https://github.com/meetyangyang/Wind_predict_seq2seq"> code</a>.
  
 ## Supply Chain
-* **Yang, Y.**, Wu J., Song X.M., Wu D.R., Su L.J., Tang L.X., Data-driven Quasi-Convex Method for Hit Rate Optimization of Process Product Quality. 
+* **Yang, Y.**, Wu J., Song X.M., Wu D.R., Su L.J., Tang L.X., Data-driven Quasi-Convex Method for Hit Rate Optimization of Process Product Quality. (Under Review, Journal of Industrial Information Integration)
  <a href="https://github.com/meetyangyang/"> code</a>.
 
 ## NLP
-* **Yang, Y.**, Sahinidis N., Self-supervised dynamic topic model with bi-level optimization. 
+* **Yang, Y.**, et al., Self-supervised dynamic topic model with bi-level optimization. 
  <a href="https://github.com/meetyangyang/"> code</a>.
 
 <!-- {% if author.googlescholar %}
