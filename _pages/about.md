@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Preventing Catastrophic AI Events: My Duty"
+title: "Preventing AI Catastrophes: My Duty"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
