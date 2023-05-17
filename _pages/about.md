@@ -10,6 +10,5 @@ redirect_from:
 
 I am a PhD candidate in **Control Science and Engineering** (Top 3 in China) in the DAO Lab at Northeastern University. My research is focused on the interdisciplinary fields of Process Systems Engineering, Statistics, and Robotics, with a keen interest in using **data science**, **machine learning**, and **convex optimization** techniques to push forward scientific research.
 My primary duty is to develop **secure** and **explainable** data analytics models and convex optimization techniques to optimize energy, efficiency, and product quality of the large-scale complex process industries and their supply chains. **Seeking Postdoc/PhD Position**.
-
 ## A Safe and Efficient Framework for Data-driven Predictive Control Models
 ![avatar](/images/dynamic-predictive-control-framework.jpg)
