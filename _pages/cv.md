@@ -12,26 +12,29 @@ redirect_from:
 Education
 ======
 * Ph.D in Control Science and Engineering, Northeastern University, 2023.07
-* M.S. in Applied Statistics, Northeastern University, 2015
-* B.S. in Applied Mathematics, Northeastern University, China, 2013
+* M.S. in Statistics, Northeastern University, 2015
+* B.S. in Mathematics, Northeastern University, China, 2013
+* B.S. in Law, Northeastern University, China, 2013
 
 Research interest
 ======
-* Supply chain optimization
-* Data-driven Predictive control & optimization
-* Convex optimization
-* Deep learning
+* Bionic Robot Control & Optimization
+* Metal 3D Printing
+* Data Analytics
+* Statistical Process Control & Montoring
+* Data-driven Predictive Control 
+* Convex Optimization
 
 Work experience
 ======
-* 1/2019-2/2020: Visiting scholar
+* 1/2019-2/2020: Visiting Scholar
   * Carnegie Mellon University University
-  * Duties included: recommendation system, NLP
+  * Duties included: Web-Crawling, Data Analysis, Statistical Learning & Modeling, Optimization, Recommendation System Development
   * Supervisor: Professor Nick Sahinidis
 
-* 6/2015-12/2018: Data Research Assistant
+* 6/2015-12/2018: Data Analytics Researcher
   * Baosteel Company
-  * Duties included: Prediction, Control and Optimization for integrated steelmaking
+  * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Supply Chain Integration and Decision Making
   * Supervisor: Derun Wu
   
 Skills
@@ -45,12 +48,13 @@ Skills
 * Software Development
   * C++, C#, SQL, Linux, Git
 * Uncertainty Quantification
+  * Data Analytics, Statistics
 
-Mentoring Experience
+Assisting and Mentoring Experience
 ======
 * <a href="https://github.com/LeslieZhoa"> Leslie Zhao</a>, NEU, Master (graduated),AI Researcher in TAL Education 
 * Che Gelegen, NEU, Master (graduated), pursuing PhD in NEU
-* Yang Lu, NEU, Master (graduated), Government Researcher
+* Yang Lu, NEU, Master (graduated), Civil Servant
 
 More Info
 ======

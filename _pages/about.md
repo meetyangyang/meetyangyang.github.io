@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Preventing AI Catastrophes: My Duty"
+title: "Become Good Mentor and Make World Better"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
