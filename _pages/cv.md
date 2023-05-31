@@ -12,18 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D in Control Science and Engineering, Northeastern University, 2023
-* M.S. in Statistics, Northeastern University, 2015
+* M.S. in Statistics, Northeastern University, China, 2015
 * B.S. in Mathematics, Northeastern University, China, 2013
 * B.S. in Law, Northeastern University, China, 2013
 
 Research interest
 ======
-* Bionic Robot Control & Optimization
-* Metal 3D Printing
 * Data Analytics
 * Statistical Process Control & Montoring
-* Data-driven Predictive Control 
 * Convex Optimization
+* Data-driven Predictive Control 
+* Bionic Robot
+* 3D Printing
 
 Work experience
 ======
@@ -35,7 +35,7 @@ Work experience
 * 6/2015-12/2018: Data Analytics Researcher
   * Baosteel Company
   * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Supply Chain Integration and Decision Making
-  * Supervisor: Derun Wu
+  * Supervisor: Derun Wu (Chief Process Engineer)
   
 Skills
 ======
