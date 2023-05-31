@@ -39,6 +39,8 @@ Work experience
   
 Skills
 ======
+* Uncertainty Quantification
+  * Data Analytics, Statistics
 * Quantitative Modelling, Optimization, and Programming
   * Matlab, Python, R
   * GAMS, Julia 
@@ -47,8 +49,7 @@ Skills
   * Yalmip, Pyomo, CVX, CVXPY
 * Software Development
   * C++, C#, SQL, Linux, Git
-* Uncertainty Quantification
-  * Data Analytics, Statistics
+
 
 Assisting and Mentoring Experience
 ======
