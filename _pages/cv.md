@@ -30,7 +30,7 @@ Work experience
 * 1/2019-1/2021: Visiting Scholar
   * Carnegie Mellon University University
   * Duties included: Web-Crawling, Data Analysis, Statistical Learning & Modeling, Optimization, Recommendation System Development
-  * Supervisor: Professor Nick Sahinidis
+  * Supervisor: Professor [Nick Sahinidis](https://chbe.gatech.edu/people/nick-sahinidis)
 
 * 6/2015-12/2018: Data Analytics Researcher
   * Baosteel Company
