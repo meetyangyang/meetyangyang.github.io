@@ -48,7 +48,8 @@ Skills
   * CPLEX, Gurobi, MOSEK
   * Yalmip, Pyomo, CVX, CVXPY
 * Software Development
-  * C++, C#, SQL, Linux, Git
+  * Full-Stack Developer in Baosteel Company
+  * C++, C#, SQL, SolidWorks, Linux, Git, TCP/IP, PID
 
 
 Assisting and Mentoring Experience
