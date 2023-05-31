@@ -28,12 +28,12 @@ Research interest
 Work experience
 ======
 * 1/2019-1/2021: Visiting Scholar
-  * Carnegie Mellon University University
+  * Center for Advanced Process Decision-Making, Carnegie Mellon University
   * Duties included: Web-Crawling, Data Analysis, Statistical Learning & Modeling, Optimization, Recommendation System Development
   * Supervisor: Professor [Nick Sahinidis](https://chbe.gatech.edu/people/nick-sahinidis)
 
 * 6/2015-12/2018: Data Analytics Researcher
-  * Baosteel Company
+  * Department of Manufacturing, Baosteel Company & Baosight Software Co. Ltd
   * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Steel Scrap Recycling and Supply Chain Integration
   * Supervisor: Derun Wu (Chief Process Engineer)
   
