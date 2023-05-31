@@ -13,9 +13,9 @@ My primary duty is to develop **Safe** and **Human-computer** data analytics mod
 ======
 **Seeking Postdoc Position or Researcher Position** （[Email]（yang_cmu@icloud.com））
 ## News
-* An Safe Online Convex Optimization Framework for Data-driven Predictive Control
-![avatar](/images/cv4.jpg)
+* An Safe Online Convex Optimization Framework for Data-driven Predictive Control  
+![avatar](/images/cv4.png)
 * Visualizing and Interpreting the Degradation of Optimal Solutions in Machine Learning: a State-of-the-art Approach (Preprint Coming Soon & Seeking Reviewers)
-* More Open Source Projects are Coming Soon
-![avatar](/images/cv1.jpg)
-![avatar](/images/cv2.jpg)
+* More Open Source Projects are Coming Soon  
+![avatar](/images/cv1.png)  
+![avatar](/images/cv2.png)
