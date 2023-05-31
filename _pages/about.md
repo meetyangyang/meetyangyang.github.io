@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Become Good Mentor and Make World Better"
+title: "Make World Better"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

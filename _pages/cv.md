@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Control Science and Engineering, Northeastern University, 2023.07
+* Ph.D in Control Science and Engineering, Northeastern University, 2023
 * M.S. in Statistics, Northeastern University, 2015
 * B.S. in Mathematics, Northeastern University, China, 2013
 * B.S. in Law, Northeastern University, China, 2013
