@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Representative Study"
+title: "Representative Work"
 permalink: /publications/
 author_profile: true
 ---
