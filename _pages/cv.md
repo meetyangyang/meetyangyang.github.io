@@ -34,7 +34,7 @@ Work experience
 
 * 6/2015-12/2018: Data Analytics Researcher
   * Baosteel Company
-  * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Supply Chain Integration and Decision Making
+  * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Steel Scrap Recycling and Supply Chain Integration
   * Supervisor: Derun Wu (Chief Process Engineer)
   
 Skills
@@ -56,6 +56,10 @@ Assisting and Mentoring Experience
 * <a href="https://github.com/LeslieZhoa"> Leslie Zhao</a>, NEU, Master (graduated),AI Researcher in TAL Education 
 * Che Gelegen, NEU, Master (graduated), pursuing PhD in NEU
 * Yang Lu, NEU, Master (graduated), Civil Servant
+
+Business Software Development
+======
+* Online and offline process quality prediction and optimization software, interface and client
 
 More Info
 ======
