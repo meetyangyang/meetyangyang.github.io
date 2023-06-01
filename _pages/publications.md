@@ -10,10 +10,11 @@ author_profile: true
 [Code to be open sourced (testing)](https://github.com/meetyangyang/WindPredict).
 ![avatar](/images/cv2.png) 
 ## Statistical Process Control and Data Analytics
-* **Yang, Yang**, Jian Wu, Xiangman Song, Derun Wu, Lijie Su., [Lixin Tang](https://scholar.google.com/citations?hl=en&user=qCz1I68AAAAJ). " Data-driven Quasi-Convex Method for Hit Rate Optimization of Process Product Quality". (Under Review, Journal of Industrial Information Integration) (preprint is coming soon).  [Code to be open sourced (preparing)](https://github.com/meetyangyang/).
+* **Yang, Yang**, Jian Wu, Xiangman Song, Derun Wu, Lijie Su., [Lixin Tang](https://scholar.google.com/citations?hl=en&user=qCz1I68AAAAJ). " Data-driven Quasi-Convex Method for Hit Rate Optimization of Process Product Quality". (Under Review, Journal of Industrial Information Integration) [Preprint](
+https://doi.org/10.48550/arXiv.2305.20003).  [Code to be open sourced (preparing)](https://github.com/meetyangyang/).
 ![avatar](/images/cv4.png)
 ## Feature Engineering in Topic Modeling
-* **Yang, Yang**, et al., Self-supervised dynamic topic model with bi-level optimization.  
+* **Yang, Yang**, et al., Self-supervised dynamic topic model with bi-level optimization.  (Preprint is preparing)
  [Code to be open sourced (preparing)](https://github.com/meetyangyang/NMF).
 
 <!-- {% if author.googlescholar %}
