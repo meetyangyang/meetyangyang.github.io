@@ -9,16 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * Ph.D in Control Science and Engineering, Northeastern University, 2023
 * Visiting Scholar, Process System Engineering, Carnegie Mellon University，2019-2021
 * M.S. in Statistics, Northeastern University, China, 2015
 * B.S. in Mathematics, Northeastern University, China, 2013
 * B.S. in Law, Northeastern University, China, 2013
 
-Research interest
-======
+## Research interest
 * Data Analytics
 * Statistical Process Control & Montoring
 * Convex Optimization
@@ -26,8 +24,7 @@ Research interest
 * Bionic Robot
 * 3D Printing
 
-Work experience
-======
+## Work experience
 * 1/2019-1/2021: Visiting Scholar
   * Center for Advanced Process Decision-Making, Carnegie Mellon University
   * Duties included: Data Crawling, Data Analysis, Statistical Learning & Modeling, Optimization, Recommendation System Development
@@ -40,8 +37,7 @@ Work experience
   * Duties included: Data-driven Analytics, Simulation, Prediction, Control and Optimization for Steel Scrap Recycling and Supply Chain Integration
   * Supervisor: Derun Wu (Chief Process Engineer)
   * Progress: A demo for process quality prediction on data cloud platform for steelmaking
-Skills
-======
+## Skills
 * Uncertainty Quantification
   * Data Analytics, Statistics
 * Quantitative Modelling, Optimization, and Programming
@@ -54,16 +50,16 @@ Skills
   * Full-Stack Developer in Baosteel Company
   * C++, C#, SQL, SolidWorks, Linux, Git, TCP/IP, PID
 
-
-Assisting and Mentoring Experience
-======
+## Assisting and Mentoring Experience
 * <a href="https://github.com/LeslieZhoa"> Leslie Zhao</a>, NEU, Master (graduated),AI Researcher in TAL Education 
 * Che Gelegen, NEU, Master (graduated), pursuing PhD in NEU
 * Yang Lu, NEU, Master (graduated), Civil Servant
 
-Business Software Development
-======
+## Business Software Development
 * Online and offline process quality prediction and optimization software, interface and client
+
+## Prize & Honor
+
 
 More Info
 ======
