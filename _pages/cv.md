@@ -59,8 +59,10 @@ redirect_from:
 * Online and offline process quality prediction and optimization software, interface and client
 
 ## Prize & Honor
-
+Meritorious Winner in the Mathematical Contest in Modeling (2011)
+Northeastern University undergraduate scholarship(a third-year GPA rank 2/150 )
 
 More Info
 ======
 [Download CV here](https://meetyangyang.github.io/files/cv_eng.pdf)
+[Appendix here](https://meetyangyang.github.io/files/Appendix.pdf)
