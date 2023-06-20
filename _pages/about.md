@@ -15,7 +15,7 @@ My primary duty is to develop **Safe** and **Human-computer** data analytics mod
 * An Safe Online Convex Optimization Framework for Data-driven Predictive Control  
 ![avatar](/images/cv4.png)
 * Visualizing and Interpreting the Degradation of Optimal Solutions in Machine Learning: a State-of-the-art Approach (Preprint Coming Soon & Seeking Reviewers)
-* More Open Source Projects are Coming Soon  
+* More [Open Source Projects](https://github.com/meetyangyang/) are Coming  
 ![avatar](/images/cv1.png)  
 ![avatar](/images/cv2.png)
 
