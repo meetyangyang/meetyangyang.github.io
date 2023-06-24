@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Love and Peace"
+title: "Teach & Nurture"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
