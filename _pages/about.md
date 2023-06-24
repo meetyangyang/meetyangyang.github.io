@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Make World Better: Love and Peace"
+title: "Love and Peace"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
