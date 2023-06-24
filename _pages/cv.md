@@ -47,8 +47,7 @@ redirect_from:
   * CPLEX, Gurobi, MOSEK
   * Yalmip, Pyomo, CVX, CVXPY
 * Software Development
-  * Full-Stack Developer in Baosteel Company
-  * C++, C#, SQL, SolidWorks, Linux, Git, TCP/IP, PID
+  * C++, C#, SQL, Linux, Git, TCP/IP
 
 ## Assisting and Mentoring Experience
 * <a href="https://github.com/LeslieZhoa"> Leslie Zhao</a>, NEU, Master (graduated),AI Researcher in TAL Education 
