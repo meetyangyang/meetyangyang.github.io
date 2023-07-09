@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am a PhD candidate in **Control Science and Engineering** at Northeastern University. My research is focused on the interdisciplinary fields of Process Systems Engineering, Statistics, and Robotics, with a keen interest in using **Data Analytics**, **Statistical Learning**, and **Convex Optimization** techniques to push forward scientific research.  
-My primary duty is to develop **Safe** and **Human-computer** data analytics models and convex optimization techniques to optimize cost, quality, energy and efficiency of **Process Industry**, **Bionic Robot** and **3D Printing**.
+My primary duty is to develop **Safe** and **Human-computer** data analytics models and convex optimization techniques to optimize cost, quality, energy and efficiency of **Autonomous Intelligent Manufacturing**, **Robot** and **Digital Twin**.
 ## News
-* [An Safe Online Convex Optimization Framework for Data-driven Predictive Control](https://arxiv.org/abs/2305.20003)  
-Seek Cooperation Partners  
+* [An Safe Online Convex Optimization Framework for Data-driven MPC](https://arxiv.org/abs/2305.20003)  
+Seek Cooperation Partners for Science  
 ![avatar](/images/cv4.png)  
 * Visualizing and Interpreting the Degradation of Optimal Solutions in Machine Learning: a State-of-the-art Approach (Preprint Coming Soon & Seeking Reviewers)
 * More [Open Source Projects](https://github.com/meetyangyang/) are Coming  
