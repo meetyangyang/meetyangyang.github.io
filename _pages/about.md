@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Teach & Nurture"
+title: "Teach & Nurture 教书育人"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
