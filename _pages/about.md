@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD candidate in **Control Science and Engineering** at Northeastern University. My research is focused on the interdisciplinary fields of Process Systems Engineering, Statistics, and Optimization, with a keen interest in using **Data Analytics**, **Machine Learning**, and **Convex Optimization** techniques to make world better.  
-My primary responsibility is to develop safe and human-computer friendly modeling and optimization techniques to optimize cost, quality, energy and efficiency of **Autonomous Intelligent Manufacturing**, **Digital Twin** and **Robot**.
+My primary responsibility is to develop safe and human-computer friendly techniques to optimize cost, quality, energy and efficiency of **Autonomous Intelligent Manufacturing**, **Digital Twin** and **Robot**.
 ## News
 * [An Safe Online Convex Optimization Framework for Data-driven MPC](https://arxiv.org/abs/2305.20003)  
 Seek Cooperation Partners for Science  
