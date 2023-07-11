@@ -17,12 +17,11 @@ redirect_from:
 * B.S. in Law, Northeastern University, China, 2013
 
 ## Research interest
-* Data Analytics
+* Big Data Analytics & Digital Twin
 * Statistical Process Control & Montoring
 * Convex Optimization
-* Data-driven Predictive Control 
-* Bionic Robot
-* 3D Printing
+* Data-driven Model Predictive Control 
+* Bionic Robot & 3D Printing
 
 ## Work experience
 * 1/2019-1/2021: Visiting Scholar
@@ -63,5 +62,5 @@ Northeastern University undergraduate scholarship(a third-year GPA rank 2/150 )
 
 More Info
 ======
-[Download CV here](https://meetyangyang.github.io/files/cv_eng.pdf)  
-[Appendix here](https://meetyangyang.github.io/files/Appendix.pdf)
+<!-- [Download CV here](https://meetyangyang.github.io/files/cv_eng.pdf)   -->
+<!-- [Appendix here](https://meetyangyang.github.io/files/Appendix.pdf) -->
