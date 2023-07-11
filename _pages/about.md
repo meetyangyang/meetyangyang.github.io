@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 My ongoing research is focused on the interdisciplinary fields of Process Systems Engineering, Statistics, and Optimization, with a keen interest in using **Data Analytics**, **Machine Learning**, and **Convex Optimization** techniques to make the world a better place.  
+  
 My primary responsibility is to develop safe and efficient human-computer-robot interaction techniques to optimize costs, quality and energy usage of **Digital Twin Intelligent Manufacturing**, **Smart City** and **Robot**.
 ## News
 * [An Safe Online Convex Optimization Framework for Data-driven MPC](https://arxiv.org/abs/2305.20003)  
